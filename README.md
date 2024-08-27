@@ -2,7 +2,7 @@
 
 ### Hi there 👋. This is the GitHub page of Toshiki Tsuda.
 
-I am a PhD student in economics: [my homepage](https://sites.google.com/view/toshiki-tsuda/home)
+I am a PhD student in economics.
 
 ###  R package
  - [mteucb](https://txt872.github.io/mteucb/)
