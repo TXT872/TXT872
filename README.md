@@ -9,7 +9,7 @@ I am a PhD student in economics.
 
    
       - Uniform Confidence Band for the Marginal Treatment Function (tentative).
-      - Tsuda, T.,Jin, Y. and Okui, R. (2024+). Uniform Confidence Band for Marginal Treatment Effect Function. will be available on arXiv. 
+      - Tsuda, T., Jin, Y. and Okui, R. (2024+). Uniform Confidence Band for Marginal Treatment Effect Function. will be available on arXiv. 
       
 
 
